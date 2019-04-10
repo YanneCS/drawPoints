@@ -20,5 +20,5 @@ plt.plot(x, y, marker = 'o', linestyle = '-')
 plt.plot(xMin, yMin, linewidth = 4, linestyle = '-')
 plt.axis([(minX - 1), (maxX + 1), (minY - 1), (maxY + 1)])
 
-
+print ("this is plot demo")
 plt.show()
