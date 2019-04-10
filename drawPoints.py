@@ -21,5 +21,4 @@ plt.plot(xMin, yMin, linewidth = 4, linestyle = '-')
 plt.axis([(minX - 1), (maxX + 1), (minY - 1), (maxY + 1)])
 
 
-
 plt.show()
